@@ -1,2 +1,0 @@
-- Rollender Krug eingeführt (Tunnel zum garten) - Elena: Menschliche Wiritn, etwas älter 
-- Haben den Apgefackelte haus gefunden (Hat vorherirge gruppe gemacht): Tür symbol
