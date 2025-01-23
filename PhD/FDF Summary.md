@@ -1,0 +1,5 @@
+- What are RFSoC? Sounded like a medium price FPGA development board for DAQs (~2k but only with permission from company). And this with Jupyter Notebook! Its apperantly its an Evaluation borad with the CHIP being 13.5k???
+- Siemens Catapult translates code to HLD code? Interesting
+- Formal: Tool to debug/optimize DPGAs in Vivado
+- VHDL development works in VS!
+- HOG: System to handle HDL (so also VHDL) on Git. Works with VIVADO. Contact: HOG-CERN
