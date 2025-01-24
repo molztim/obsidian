@@ -1,11 +1,14 @@
 # Der Weg dahin
 
-1. Das Ziel klar definieren: Wie sollt das Endprodukt aussehen, was soll es können, in welchem Rahmen soll das sein.
-2. Ressourcen und Zeit sichten, auflisten und schwachstellen aufdecken.
-3. Die einzelnen Schritte planen, dann konkretisieren.
-4. Meilensteine zum Thema festlegen
-5. Los legen
-6. Profit (Dr. Tim Aaron Molzberger)
+1. Das [[Ziel]] klar definieren: Wie sollt das Endprodukt aussehen, was soll es können, in welchem Rahmen soll das sein.
+2. [[Ressourcen]] und Zeit sichten, auflisten und Schwachstellen aufdecken.
+3. Herausfinden oder präzisieren, [[Der Stand zu beginn|was bereits alles getan]] wurde und vorallem warum es so getan wurde.
+4. Die einzelnen Schritte planen, dann konkretisieren.
+5. Meilensteine zum Thema festlegen
+6. Los legen
+7. Profit 
+
+## Dr. Tim Aaron Molzberger
 
 # Ziel
 
